@@ -1,0 +1,25 @@
+{
+  "name": "gurumbot",
+  "version": "1.0.0",
+  "description": "with JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurumnyang/GurumBot.git"
+  },
+  "keywords": [
+    "구름냥이봇"
+  ],
+  "author": "GurumNyang_i",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurumnyang/GurumBot/issues"
+  },
+  "homepage": "https://github.com/gurumnyang/GurumBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
